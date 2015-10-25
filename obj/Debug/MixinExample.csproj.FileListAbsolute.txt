@@ -1,0 +1,6 @@
+c:\users\кривичанин\documents\visual studio 2012\Projects\MixinExample\MixinExample\bin\Debug\MixinExample.exe.config
+c:\users\кривичанин\documents\visual studio 2012\Projects\MixinExample\MixinExample\bin\Debug\MixinExample.exe
+c:\users\кривичанин\documents\visual studio 2012\Projects\MixinExample\MixinExample\bin\Debug\MixinExample.pdb
+c:\users\кривичанин\documents\visual studio 2012\Projects\MixinExample\MixinExample\obj\Debug\MixinExample.csprojResolveAssemblyReference.cache
+c:\users\кривичанин\documents\visual studio 2012\Projects\MixinExample\MixinExample\obj\Debug\MixinExample.exe
+c:\users\кривичанин\documents\visual studio 2012\Projects\MixinExample\MixinExample\obj\Debug\MixinExample.pdb
