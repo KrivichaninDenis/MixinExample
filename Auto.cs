@@ -1,12 +1,13 @@
-﻿using MixinExample.Interface;
-
+﻿
 namespace MixinExample
 {
-    class Auto:AutoPrice, ISomeInterface
-    {              
+    public class Auto
+    {
+        public int Price;
         public Auto( int p)
         {        
             Price = p;
         }            
+
     }
 }
